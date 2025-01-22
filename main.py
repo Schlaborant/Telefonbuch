@@ -1,5 +1,5 @@
-import telefonbuch 
+import phone_book 
 
 if __name__ == '__main__':
-    app = telefonbuch.Telefonbuch()
+    app = phone_book.Phone_book()
     app.mainloop()

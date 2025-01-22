@@ -1,2 +1,2 @@
-# Telefonbuch
-Telefonbuch in Python mit Customtkinter
+# Phone book
+This is a phone book created with Customtkinter
